@@ -4,14 +4,22 @@
 /httpRequests/
 /dataSources/
 /dataSources.local.xml
+
+# Homework item
 /.idea
 /.git
+
+# Compiled class file
+*.class
 
 # Log file
 *.log
 
 # BlueJ files
 *.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
 # Package Files #
 *.jar
@@ -21,3 +29,6 @@
 *.zip
 *.tar.gz
 *.rar
+
+# virtual machine crash logs
+replay_pid*
