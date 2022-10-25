@@ -1,13 +1,15 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 /httpRequests/
 /dataSources/
 /dataSources.local.xml
 
 # Homework item
-/.idea
-/.git
+.idea
+.git
+/out
+
 
 # Compiled class file
 *.class
