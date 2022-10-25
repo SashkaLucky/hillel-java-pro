@@ -8,8 +8,9 @@
 # Homework item
 .idea
 .git
-/out
-
+*.jar
+bin
+target/*
 
 # Compiled class file
 *.class
